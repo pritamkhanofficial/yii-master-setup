@@ -1,0 +1,7 @@
+/vendor/*
+/assets/*
+!assets/AppAsset.php
+!assets/DashboardAsset.php
+!assets/IconAsset.php
+!assets/LoginAsset.php
+/web/assets/*

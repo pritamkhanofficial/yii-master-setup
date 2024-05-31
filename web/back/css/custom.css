@@ -1,0 +1,15 @@
+.help-block{
+    color:red;
+}
+form div.required  label.col-form-label::after {
+    content:" * ";
+    color:red;
+}
+.card{
+    border: 1px solid rgba(0,0,0,.125) !important;
+    border-radius: .25rem !important;
+}
+
+.table-bordered {
+    border-color: #dee2e6 !important;
+}
